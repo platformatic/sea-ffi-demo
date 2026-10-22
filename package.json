@@ -1,0 +1,9 @@
+{
+  "name": "sea-ffi-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "sh scripts/build.sh",
+    "build:docker": "node scripts/build.js"
+  }
+}
